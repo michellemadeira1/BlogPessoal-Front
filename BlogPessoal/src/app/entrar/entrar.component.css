@@ -1,0 +1,9 @@
+#img-bg{
+    background-image: url('https://i.imgur.com/V2TNiEk.jpg');/*verificar porque a imagem nao aparece do lsdo do entrar*/
+
+      min-height: 695px;
+
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
